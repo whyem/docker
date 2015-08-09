@@ -1,2 +1,2 @@
-# docker
-Docker files con distintas máquinas.
+# Dockerfiles
+Archivos de construcción para docker, multi-propósito.
